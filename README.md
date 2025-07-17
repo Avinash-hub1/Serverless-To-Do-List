@@ -31,6 +31,5 @@ This is a serverless backend built using **AWS Lambda**, **API Gateway**, and **
     "completed": false
   }
 
-  <img width="1261" height="562" alt="image" src="https://github.com/user-attachments/assets/5e359f45-d86c-488c-9569-0b2f94d92692" />
 
 
