@@ -30,3 +30,6 @@ This is a serverless backend built using **AWS Lambda**, **API Gateway**, and **
     "task": "Buy groceries",
     "completed": false
   }
+
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c166d9de-1ac8-4a80-8c36-2f9b7ccc92ab" />
+
